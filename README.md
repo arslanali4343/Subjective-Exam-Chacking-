@@ -1,5 +1,5 @@
-# Subjective Exam-Chacking 
-In this file I used 11 different Models.
+# 👋 Introducing `Subjective Exam-Chacking`  
+## In this file I used 11 different Models.
 ## 1) Problem Statement
 We have observed that many questions on web based question-answering/discussion platforms go unanswered for a long time. The main reason behind that is either the question is asked in the wrong category or the similar kind of question has been asked before So people tend not to answer it. That’s why the CrowdSource team at Google Research, a group dedicated to advancing NLP and other types of ML science via crowdsourcing, has collected data on a number of these quality scoring aspects. We use that dataset to build predictive algorithms for different subjective aspects of question-answering. The question-answer pairs were gathered from nearly 70 different websites, in a "common-sense" fashion. Our raters received minimal guidance and training and relied largely on their subjective interpretation of the prompts. As such, each prompt was crafted in the most intuitive fashion so that raters could simply use their common sense to complete the task. Demonstrating these subjective labels can be predicted reliably and can shine a new light on this research area.
 ## 2) PROPOSED SYSTEM
