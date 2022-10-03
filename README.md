@@ -43,8 +43,9 @@ This is not a binary prediction challenge. Target labels are aggregated from mul
 
 
 ### 4(ii) File descriptions
-train.csv - the training data (target labels are the last 30 columns)
-test.csv - the test set (you must predict 30 labels for each test set row)
+`train.csv - the training data (target labels are the last 30 columns)`
+
+`test.csv - the test set (you must predict 30 labels for each test set row)`
 ## 5) Libraries
 ![image](https://user-images.githubusercontent.com/53410060/193464453-f62575e5-cf58-4807-ba80-99f21f9e3308.png)
 
